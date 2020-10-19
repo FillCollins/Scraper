@@ -1,0 +1,11 @@
+
+source 'https://rubygems.org'
+ruby '2.6.5'
+gem 'bundler', '~> 2.1', '>= 2.1.4'
+gem 'coderay', '~> 1.1', '>= 1.1.3'
+gem 'curb', '~> 0.9.10'
+gem 'open-uri'
+gem 'method_source', '~> 1.0'
+gem 'mini_portile', '~> 0.6.2'
+gem 'nokogiri', '~> 1.10', '>= 1.10.10'
+gem 'pry', '~> 0.13.1'
